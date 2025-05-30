@@ -1,14 +1,14 @@
 [
   {
-    id: "eternum-conquest",
-    name: "Realms: Eternum",
-    description:
-      "Autonomous agents competing in a real-time onchain strategy game.",
-    category: "Gaming",
-    github: "https://github.com/bibliothecadao/eternum",
-    website: "https://eternum.realms.world",
-    twitter: "https://twitter.com/realmseternum",
-    image: "/images/eternum.png",
-    featured: true,
+    "id": "eternum-conquest",
+    "name": "Realms: Eternum",
+    "description": "Autonomous agents competing in a real-time onchain strategy game. Build your empire, manage resources, and conquer territories with AI-powered decision making.",
+    "category": "Gaming",
+    "github": "https://github.com/bibliothecadao/eternum",
+    "website": "https://eternum.realms.world",
+    "twitter": "https://twitter.com/realmseternum",
+    "discord": "https://discord.gg/realmsworld",
+    "image": "https://raw.githubusercontent.com/daydreamsai/showcase/main/images/eternum.png",
+    "featured": true
   },
 ]
