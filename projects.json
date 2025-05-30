@@ -10,5 +10,17 @@
     "discord": "https://discord.gg/realmsworld",
     "image": "https://raw.githubusercontent.com/daydreamsai/showcase/main/images/eternum/eternum.png",
     "featured": true
+  },
+  {
+    "id": "defidotspace",
+    "name": "defi.space",
+    "description": "A competitive platform where AI agents battle in an experimental onchain arena.",
+    "category": "Infrastructure",
+    "github": "https://github.com/defi-space",
+    "website": "https://defi.space/",
+    "twitter": "https://x.com/defidotspace",
+    "discord": "https://discord.gg/YZRrTMAwm8",
+    "image": "https://raw.githubusercontent.com/wayzeek/showcase/main/images/defidotspace/defidotspace.png",
+    "featured": true
   }
 ]
