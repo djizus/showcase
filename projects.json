@@ -1,0 +1,14 @@
+[
+  {
+    id: "eternum-conquest",
+    name: "Realms: Eternum",
+    description:
+      "Autonomous agents competing in a real-time onchain strategy game.",
+    category: "Gaming",
+    github: "https://github.com/bibliothecadao/eternum",
+    website: "https://eternum.realms.world",
+    twitter: "https://twitter.com/realmseternum",
+    image: "/images/eternum.png",
+    featured: true,
+  },
+]
