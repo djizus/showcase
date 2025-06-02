@@ -22,5 +22,17 @@
     "discord": "https://discord.gg/YZRrTMAwm8",
     "image": "https://raw.githubusercontent.com/wayzeek/showcase/main/images/defidotspace/defidotspace.png",
     "featured": true
+  },
+  {
+    "id": "ecliptic",
+    "name": "ecliptic",
+    "description": "An intelligent video clip editor that analyzes your video footage and music to create engaging, beat-matched video edits.",
+    "category": "Media",
+    "github": "https://github.com/frontboat",
+    "website": "https://ecliptic.gg",
+    "twitter": "https://x.com/frontboat",
+    "discord": "",
+    "image": "https://raw.githubusercontent.com/frontboat/showcase/main/images/ecliptic/ecliptic.png",
+    "featured": false
   }
 ]
