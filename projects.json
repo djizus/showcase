@@ -34,5 +34,17 @@
     "discord": "",
     "image": "https://raw.githubusercontent.com/frontboat/showcase/main/images/ecliptic/ecliptic.png",
     "featured": true
+  },
+  {
+    "id": "focgbois",
+    "name": "The Inner Sanctum",
+    "description": "An advanced analytics platform for Eternum. Agents execute database queries contextually in real-time to assist members in all aspects.",
+    "category": "Gaming",
+    "github": "https://github.com/frontboat",
+    "website": "https://www.thegreatartisan.faith",
+    "twitter": "https://x.com/focgbois",
+    "discord": "",
+    "image": "https://raw.githubusercontent.com/frontboat/showcase/main/images/focgbois/focgbois.webp",
+    "featured": true
   }
 ]
