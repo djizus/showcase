@@ -22,5 +22,29 @@
     "discord": "https://discord.gg/YZRrTMAwm8",
     "image": "https://raw.githubusercontent.com/wayzeek/showcase/main/images/defidotspace/defidotspace.png",
     "featured": true
+  },
+  {
+    "id": "ecliptic",
+    "name": "ecliptic",
+    "description": "An intelligent video clip editor that analyzes your video footage and music to create engaging, beat-matched video edits.",
+    "category": "Media",
+    "github": "https://github.com/frontboat",
+    "website": "https://ecliptic.gg",
+    "twitter": "https://x.com/frontboat",
+    "discord": "",
+    "image": "https://raw.githubusercontent.com/frontboat/showcase/main/images/ecliptic/ecliptic.png",
+    "featured": true
+  },
+  {
+    "id": "focgbois",
+    "name": "The Inner Sanctum",
+    "description": "An advanced analytics platform for Eternum. Agents execute database queries contextually in real-time to assist members in all aspects.",
+    "category": "Gaming",
+    "github": "https://github.com/frontboat",
+    "website": "https://www.thegreatartisan.faith",
+    "twitter": "https://x.com/focgbois",
+    "discord": "",
+    "image": "https://raw.githubusercontent.com/frontboat/showcase/main/images/focgbois/focgbois.webp",
+    "featured": true
   }
 ]
