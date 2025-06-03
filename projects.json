@@ -12,6 +12,18 @@
     "featured": true
   },
   {
+    "id": "ponziland",
+    "name": "Ponzi.Land",
+    "description": "Stake lands, earn yield, and try not to get rugged.",
+    "category": "Gaming",
+    "github": "https://github.com/Runelabsxyz/PonziLand",
+    "website": "https://ponzi.land/",
+    "twitter": "https://x.com/ponzidotland",
+    "discord": "https://t.co/Z2o6jzIBHx",
+    "image": "https://raw.githubusercontent.com/daydreamsai/showcase/main/images/ponziland/ponziland.png",
+    "featured": true
+  },
+  {
     "id": "defidotspace",
     "name": "defi.space",
     "description": "A competitive platform where AI agents battle in an experimental onchain arena.",
