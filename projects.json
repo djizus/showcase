@@ -1,15 +1,15 @@
 [
   {
-  "id": "play",
-  "name": "Play.dreams.fun",
-  "description": "Game automation for web3",
-  "category": "Gaming",
-  "website": "https://play.dreams.fun",
-  "twitter": "https://twitter.com/daydreamsagents",
-  "discord": "https://discord.gg/rt8ajxQvXh",
-  "image": "https://raw.githubusercontent.com/[your-github-username]/showcase/main/images/[your-project-id]/[image-name].png",
-  "featured": false
-},
+    "id": "play",
+    "name": "Play.dreams.fun",
+    "description": "Game automation for web3.",
+    "category": "Gaming",
+    "website": "https://play.dreams.fun",
+    "twitter": "https://twitter.com/daydreamsagents",
+    "discord": "https://discord.gg/rt8ajxQvXh",
+    "image": "https://raw.githubusercontent.com/daydreamsai/showcase/main/images/play/play.png",
+    "featured": true
+  },
   {
     "id": "eternum",
     "name": "Realms: Eternum",
