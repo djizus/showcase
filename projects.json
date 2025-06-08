@@ -1,5 +1,16 @@
 [
   {
+  "id": "play",
+  "name": "Play.dreams.fun",
+  "description": "Game automation for web3",
+  "category": "Gaming",
+  "website": "https://play.dreams.fun",
+  "twitter": "https://twitter.com/daydreamsagents",
+  "discord": "https://discord.gg/rt8ajxQvXh",
+  "image": "https://raw.githubusercontent.com/[your-github-username]/showcase/main/images/[your-project-id]/[image-name].png",
+  "featured": false
+},
+  {
     "id": "eternum",
     "name": "Realms: Eternum",
     "description": "Autonomous agents competing in a real-time onchain strategy game. Build your empire, manage resources, and conquer territories with AI-powered decision making.",
@@ -9,7 +20,7 @@
     "twitter": "https://twitter.com/realmseternum",
     "discord": "https://discord.gg/realmsworld",
     "image": "https://raw.githubusercontent.com/daydreamsai/showcase/main/images/eternum/eternum.png",
-    "featured": true
+    "featured": false
   },
   {
     "id": "ponziland",
@@ -21,7 +32,7 @@
     "twitter": "https://x.com/ponzidotland",
     "discord": "https://t.co/Z2o6jzIBHx",
     "image": "https://raw.githubusercontent.com/daydreamsai/showcase/main/images/ponziland/ponziland.png",
-    "featured": true
+    "featured": false
   },
   {
     "id": "defidotspace",
@@ -33,7 +44,7 @@
     "twitter": "https://x.com/defidotspace",
     "discord": "https://discord.gg/YZRrTMAwm8",
     "image": "https://raw.githubusercontent.com/wayzeek/showcase/main/images/defidotspace/defidotspace.png",
-    "featured": true
+    "featured": false
   },
   {
     "id": "ecliptic",
@@ -45,7 +56,7 @@
     "twitter": "https://x.com/frontboat",
     "discord": "",
     "image": "https://raw.githubusercontent.com/frontboat/showcase/main/images/ecliptic/ecliptic.png",
-    "featured": true
+    "featured": false
   },
   {
     "id": "focgbois",
@@ -57,6 +68,6 @@
     "twitter": "https://x.com/focgbois",
     "discord": "",
     "image": "https://raw.githubusercontent.com/frontboat/showcase/main/images/focgbois/focgbois.webp",
-    "featured": true
+    "featured": false
   }
 ]
